@@ -94,7 +94,7 @@ function dwrap_do_a_lookup(array $params, $server_api_path){
 
     /*
      * TODO: Checking the response header to make sure
-     *       it was a valid request and not a 404 or something.
+     *       it was a valid dwrap response and not a 404 or something.
      */
     return $response;
 
