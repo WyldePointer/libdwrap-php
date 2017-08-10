@@ -1,5 +1,5 @@
 # libdwrap-php
-A PHP library for using dwrap protocol.
+A PHP library for querying a remote dwrap server. (So it does *NOT* do any DNS lookup on its own)
 
 ### Usage
 ```
